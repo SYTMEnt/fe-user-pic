@@ -73,7 +73,7 @@ export default function Component() {
                             <Input
                                 id="username"
                                 name="username"
-                                placeholder="Admin username"
+                                placeholder="username"
                                 required
                                 type="text"
                                 value={form.username}
